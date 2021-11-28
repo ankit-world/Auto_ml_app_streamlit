@@ -1,6 +1,7 @@
 # ML-AUTO-APP
 ## Demo
 Launch the web app:
+
 [![img.png](img.png)](https://share.streamlit.io/ankit-world/auto_ml_app_streamlit/main/app.py)
 
 ## Reproducing this web APP
@@ -20,7 +21,9 @@ pip install -r requirements.txt
 ```
 
 ## Download and unzip contents from Github repo
+
 [![img_1.png](img_1.png)](https://github.com/ankit-world/Auto_ml_app_streamlit.git/archive/main.zip)
+
 
 ## To Launch the App locally
 ```buildoutcfg
