@@ -232,11 +232,11 @@ st.write("[source code](https://github.com/ankit-world/Auto_ml_app_streamlit)")
 with st.sidebar.header('1. Upload your CSV data'):
     uploaded_file = st.sidebar.file_uploader("Upload your input CSV file", type=["csv"])
     st.sidebar.markdown("""
-[Example CSV input file(Regression)](https://raw.githubusercontent.com/ankit-world/Auto_ml_app_streamlit/main/data.csv)
+[Example CSV input file(Regression)](https://raw.githubusercontent.com/ankit-world/Auto_ml_app_streamlit/main/data_regession.csv)
 """)
 
     st.sidebar.markdown("""
-[Example CSV input file(Classification)](https://raw.githubusercontent.com/ankit-world/Auto_ml_app_streamlit/main/data.csv)
+[Example CSV input file(Classification)](https://raw.githubusercontent.com/ankit-world/Auto_ml_app_streamlit/main/data_classification.csv)
 """)
 
 
