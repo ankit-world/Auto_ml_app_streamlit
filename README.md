@@ -22,6 +22,6 @@ https://github.com/ankit-world/Auto_ml_app_streamlit.git/archive/main.zip
 
 ## Launch the App
 ```buildoutcfg
-
+streamlit run app.py
 ```
 
